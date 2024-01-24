@@ -1,0 +1,32 @@
+h1
+{
+    color: red;
+    background-color: gray;
+    margin: 50px;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+p
+{
+    color:darkred;
+
+}
+
+img
+{
+    height: 500px;
+    width: 700px;
+   
+}
+
+#top
+{
+    margin-bottom: 50px;
+}
+
+#bottom
+{
+    margin-top: 20px;
+}
